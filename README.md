@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mohitgehlot17
-- 👀 I’m interested in Software Development and Data Science.
-- 🌱 I’m currently learning Python advance,c & R as well.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Data Analyst | Fresher | Python | MySQL | Data Visualisation | Statistics & EDA | Machine Learning
 -                     ... Email--> mohitsuren68@gmail.com
 -                   
 
